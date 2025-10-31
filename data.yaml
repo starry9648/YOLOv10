@@ -1,0 +1,18 @@
+path: ../datasets  # 数据集所在路径
+train: train.txt  # 数据集路径下的train.txt
+val: val.txt  # 数据集路径下的val.txt
+test: test.txt  # 数据集路径下的test.txt
+
+# Classes
+names:
+  0: Curculionidae
+  1: Delphacidae
+  2: Cicadellidae
+  3: Phlaeothripidae
+  4: Cecidomyiidae
+  5: Hesperiidae
+  6: Crambidae
+  7: Chloropidae
+  8: Ephydridae
+  9: Noctuidae
+  10: Thripidae
